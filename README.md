@@ -13,29 +13,31 @@ This project examines a dataset featuring City and Resort hotels, focusing on ri
 - It includes data from city and resort hotels, totaling 119,300 observations with 32 variables per dataset. 
 - The dataset has been anonymized to protect the privacy of hotels and customers.
 
-![Variables](https://github.com/HudaManiyar/Python-HotelBooking/assets/165786320/9eee1060-3762-47e2-ae69-aa0f7c367ab0)
+[Kaggle Dataset Link](https://www.kaggle.com/datasets/mojtaba142/hotel-booking/data)
+
 <br />
 
 ## STEPS
 <br />
 
 **1. Data Collection**
-  
   - Imported libraries, facilitating data exploration, manipulation, and visualization in Python, ideal for analytical tasks.
   - The dataset was imported from a CSV file into a dataframe using Python in JupyterLab via Anaconda.
+<br />
 
 **2. Data Exploration**
-  
+
   Performed Exploratory Data Analysis
   - Displayed Descriptive and Summary Statistics.
   - Displayed Missing and Unique Values.
-    
+<br />
+
 **3. Data Pre-Processing**
-  
   - Converted Data Type.
   - Handled Missing Values.
   - Outlier Detection.
-    
+ <br />
+ 
 **4. Data Analysis and Visualisation**
   
   Created visualizations to address the following research questions: 
@@ -47,9 +49,9 @@ This project examines a dataset featuring City and Resort hotels, focusing on ri
   - Top 10 Countries with Cancelled Bookings .
   - Analysis of Market Segment.
   - Analysis of ADR for Cancelled and Non-Cancelled Bookings.
+<br />
 
 **Data Interpretation**
-
 -	Adjust Pricing Strategies.
 - Flexible Booking Options.
 - Targeted Marketing Campaigns.

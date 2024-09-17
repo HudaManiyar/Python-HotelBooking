@@ -51,7 +51,7 @@ This project examines a dataset featuring City and Resort hotels, focusing on ri
   - Analysis of ADR for Cancelled and Non-Cancelled Bookings.
 <br />
 
-**Data Interpretation**
+**5. Data Interpretation**
 -	Adjust Pricing Strategies.
 - Flexible Booking Options.
 - Targeted Marketing Campaigns.
